@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRoskomnadzor
-- 👀 I’m interested in blocking abusing websites in Russia
+- 👀 I’m interested in blocking bad websites in Russia
 - 📫 How to reach me: https://rkn.gov.ru/
 
 <!---
